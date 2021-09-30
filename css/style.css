@@ -1,0 +1,19 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+body {
+    background: #2f001c;
+}
+#arkanoid {
+    background: #ffd0cb;
+    margin: 0 auto;
+    display: block;
+}
+.game__title {
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 20px 0;
+}
